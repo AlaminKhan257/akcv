@@ -1,0 +1,114 @@
+* {
+     margin:0;
+	 padding:0;
+}
+
+body {
+	 background-color:#eee;
+}
+
+.container {
+	 max-width:800px;
+	 background-color:skyblue;
+	 margin:0 auto;
+	 padding:20px;
+	 
+}
+
+.my-image {
+	 width:100px;
+	 height:120px;
+	 border:5px;
+	 border-radius:50%;
+	 float:left;
+}
+
+.my-bio {
+	 float:left;
+	 padding:20px;
+}
+
+.contact {
+	 float:right;
+	 
+	 
+	 
+}
+
+.contact a {
+	 text-decoration:none;
+	 font-weight:bold;
+	 color:black;
+}
+
+.contact a:hover {
+	 text-decoration:underline;
+	 color:blue;
+}
+
+.div-clear {
+	clear:both;
+}
+
+hr {
+	border:3px solid black;
+	width:100%;
+	margin:20px auto;
+	border-bottom:none;
+}
+
+.left-div {
+	width:30%;
+	 float:left;
+}
+
+.right-div {
+	width:70%;
+	 float:left;
+}
+
+.hr2 {
+	 width:100%;
+	 border:1px solid black;
+	 margin:20 auto;
+	 border-bottom:none;
+}
+
+.left-div2 {
+	 width:30%;
+	 float:left;
+}
+
+.right-div2 {
+	 width:70%;
+	 float:left;
+}
+
+.hr3 {
+	 width:100%;
+	 border:1px solid black;
+	 margin:20px auto;
+	 margin-top:10px;
+	 border-bottom:none; 
+}
+
+.skills {
+	width:30%;
+	float:left;
+}
+
+.skills-right {
+	width:70%;
+	float:left;
+}
+
+.hr4 {
+	width:100%;
+	border:1px solid black;
+	border-bottom:none;
+	margin:20 auto;
+}
+
+h1,h2,h3 {
+	color:blue;
+}
